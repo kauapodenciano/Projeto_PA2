@@ -15,4 +15,11 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
+    
+    /*ALTERAÇÃO: permite que a página tenha rolagem */
+    overflow-x: hidden;
+    overflow-y: auto;
+
+    position: relative;
 }
+
