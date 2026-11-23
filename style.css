@@ -184,3 +184,11 @@ p{
     z-index: 1;
     text-align: center;
 }
+
+/* Flex e wrap fazem os links mudarem de linha quanto faltar espaço. */
+.menu-estudo {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 12px;
+}
