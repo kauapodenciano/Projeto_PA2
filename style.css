@@ -27,6 +27,10 @@ body{
 
     /*NOVO: adiciona espaçamento nas bordas na página*/
     gap: 60px;
+
+    /* Novo: adiciona espaçamento nas bordas da página */
+    padding: 80px 20px;
+
 }
 
 body::before, body::after{
