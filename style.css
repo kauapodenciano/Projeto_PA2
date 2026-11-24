@@ -196,3 +196,8 @@ p{
     justify-content: center;
     gap: 12px;
 }
+
+.menu-estudo a, .links-estudo a, .rodape-estudo a {
+    color: #93c5fd;
+    text-underline-offset: 4px;
+}
